@@ -5,3 +5,7 @@ Gürültü giderme
 Resim boyutlandırma
 Çözünürlük Çalışması
 Filtreleme işlemleri
+-Ortanca filtre
+-Ortalama filtre
+-Laplasyen filtresi
+Fotoğraf Keskinleştirme
