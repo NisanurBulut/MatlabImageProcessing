@@ -13,3 +13,5 @@ figure, imshow(F2, [])
 F2=fftshift(F);
 F2=abs(F2);
 figure,imshow(F2,[])
+F2=log(1+F2);
+figure,imshow(F2,[]) 
